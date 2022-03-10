@@ -14,12 +14,13 @@ Steps to run .ipynb file on Google Colab
 
 Steps to run .ipynb file on Jupyter Notebook
 
-1. Launch the Jupyter Notebook App
-2. In the Notebook Dashboard navigate to find the notebook: clicking on its name will open it in a new browser tab
-3. Optional: Click on the menu Help -> User Interface Tour for an overview of the Jupyter Notebook App user interface
-4. You can run the notebook document step-by-step (one cell a time) by pressing shift + enter
-5. You can run the whole notebook in a single step by clicking on the menu Cell -> Run All
-6. To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart
+1. Download the zip file and extract all 
+2. Launch the Jupyter Notebook App
+3. In Notebook Dashboard navigate to find the file(ML_Assignment2-Final.ipynb): clicking on its name will open it in new browser tab
+4. Optional: Click on the menu Help -> User Interface Tour for an overview of the Jupyter Notebook App user interface
+5. You can run the notebook document step-by-step (one cell a time) by pressing shift + enter
+6. You can run the whole notebook in a single step by clicking on the menu Cell -> Run All
+7. To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart
 
 Dataset url: https://archive.ics.uci.edu/ml/datasets/iris
 
